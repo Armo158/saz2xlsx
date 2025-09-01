@@ -1,0 +1,4 @@
+re:/common
+re:/ajax
+/image
+# /abcde/ajax 와 같은 경우를 지우고 싶을 때 re:/ajax
